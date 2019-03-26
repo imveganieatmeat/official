@@ -1,6 +1,8 @@
 body{
   font-family: helvetica;
   list-style-position: inside;
+  background-color: #D4FAFE;
+  color: #547A22;
 }
 #home{
   font-size: 8vw;
@@ -26,7 +28,6 @@ p{
   margin-left:5vw;
   margin-right:5vw;
   font-size: 1.3vw;
-  color: blue;
 }
 ul{
   list-style: none;
