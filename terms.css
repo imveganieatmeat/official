@@ -17,10 +17,13 @@ h2{
   margin-left: 3vw;
   margin-right: 3vw;
 }
-p, u, ul, li, .email{
+p, u, ul, li{
   font-size: 1.5vw;
   padding-left: 3vw;
   padding-right: 3vw;
+}
+.email{
+  font-size: 1.5vw;
 }
 #foot{
   padding-top: 8vw;
