@@ -55,5 +55,10 @@ p{
   max-width: 33vw;
   float:left;
 }
+#sponsorF{
+  height:auto;
+  max-width: 33vw;
+  float:right;
+}
 
 /* this is a css comment */
