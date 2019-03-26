@@ -22,7 +22,8 @@ p, u, ol, li{
   padding-right: 5vw;
 }
 li{
-  text-align: right;
+  text-align: left;
+  margin-left: 5vw;
 }
 .email{
   font-size: 1.5vw;
