@@ -3,14 +3,14 @@
   text-decoration: none;
 }
 h1{
-  font-size: 5vw;
-}
-h2{
   font-size: 4vw;
 }
+h2{
+  font-size: 3vw;
+}
 p, u, ul, li, a{
-  font-size: 1vw;
+  font-size: 2vw;
 }
 body{
-  text-align: center;
+  float: center;
 }
