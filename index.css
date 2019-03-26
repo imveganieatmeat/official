@@ -1,0 +1,59 @@
+body{
+  font-family: helvetica-medium;
+  background-color:#000000;
+  text-align:center;
+}
+#txt{
+  font-size:2vw;
+  color:#2cfd7c;
+  background-color: #000000;
+}
+#firstH{
+  font-size: 8vw;
+  color:#ffffff;
+  margin-top: 15vw;
+  padding:5vw;
+  animation:fading 10s infinite}@keyframes fading{0%{opacity:0}50%{opacity:1}100%{opacity:0}
+  
+}
+#secH{
+  font-size: 8vw;
+  color: #ffffff;
+  margin-top: 15vw;
+  padding:5vw;
+  animation:fading 10s infinite}@keyframes fading{0%{opacity:0}50%{opacity:1}100%{opacity:0}
+}
+#thirdH{
+  font-size: 10vw;
+  color:#2cfd7c;
+  margin-top:80vw;
+  margin-bottom:80vw;
+  padding:5vw;
+}
+p{
+  color: #2cfd7c;
+  font-size: 2vw;
+}
+.frog{
+  display: inline-block;
+  float: center;
+  padding:2vw;
+
+}
+#memeF{
+  height: auto;
+  max-width: 35vw;
+  float:left;
+}
+#musicF{
+  height: auto;
+  max-width: 35vw;
+  float:center;
+}
+#supremeF{
+  height: auto;
+  max-width: 90vw;
+  float:right;
+}
+
+/* this is a css comment */
