@@ -22,6 +22,9 @@ p, u, ol, li{
   padding-left: 5vw;
   padding-right: 5vw;
 }
+ul{
+  list-style: none;
+}
 .email{
   font-size: 1.5vw;
 }
