@@ -5,11 +5,18 @@
 h1{
   font-size: 4vw;
   text-align: center;
+  padding-top: 5vw;
+  padding-bottom: 3vw;
 }
 h2{
   font-size: 3vw;
   padding: 2vw;
+  margin-left: 3vw;
+  margin-right: 3vw;
 }
 p, u, ul, li, a{
   font-size: 2vw;
+}
+#foot{
+  padding-top: 8vw;
 }
