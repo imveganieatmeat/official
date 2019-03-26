@@ -1,0 +1,11 @@
+body{
+  font-family: helvetica;
+  list-style-position: inside;
+  background-color: #D4FAFE;
+  color: #547A22;
+}
+#home{
+  font-size: 8vw;
+  text-decoration: none;
+  color:#2cfd7c;
+}
