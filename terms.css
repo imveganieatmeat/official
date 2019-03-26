@@ -37,6 +37,11 @@ ul{
 }
 .email{
   font-size: 1.5vw;
+  color: #547A22;
+}
+.termsPrivacy{
+  font-size: 1vw;
+  color:#2cfd7c;
 }
 #foot{
   padding-top: 8vw;
