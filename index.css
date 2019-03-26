@@ -44,22 +44,25 @@ p{
   height: auto;
   max-width: 35vw;
   float:left;
+  margin-right:-5vw;
 }
 #musicF{
   height: auto;
   max-width: 35vw;
   float:center;
+  margin-right:-5vw;
 }
 #supremeF{
   height: auto;
   max-width: 35vw;
   float:left;
+  margin-right:-5vw;
 }
 #sponsorF{
   height:auto;
   max-width: 35vw;
   float:right;
-  margin-right:10vw;
+  margin-right:5vw;
 }
 
 /* this is a css comment */
