@@ -4,13 +4,12 @@
 }
 h1{
   font-size: 4vw;
+  text-align: center;
 }
 h2{
   font-size: 3vw;
+  padding: 2vw;
 }
 p, u, ul, li, a{
   font-size: 2vw;
-}
-body{
-  float: center;
 }
