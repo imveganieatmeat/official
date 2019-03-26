@@ -1,5 +1,6 @@
 body{
   font-family: helvetica;
+  list-style-position: inside;
 }
 #home{
   font-size: 8vw;
