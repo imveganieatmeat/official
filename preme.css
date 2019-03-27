@@ -2,7 +2,7 @@
   font-size: 8vw;
   text-decoration: none;
   color:#2cfd7c;
-  text-align: center;
+  float: center;
 }
 #premeBox{
   text-align: left;
