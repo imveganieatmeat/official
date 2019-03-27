@@ -12,17 +12,17 @@
   height: 300px;
   width:auto;
 }
-.carousel-container{
+.carousel-container, .carousel-container1{
   width:300px;
   margin:auto;
   border: 5px solid black;
   overflow: hidden;
   position: relative;
 }
-.carousel-slide{
+.carousel-slide, .carousel-slide1{
   display:flex;
 }
-#prevB{
+#prevB, #prevB1{
   position: absolute;
   top: 50%;
   z-index: 10;
@@ -32,7 +32,7 @@
   opacity: 0.5;
   cursor: pointer;
 }
-#nextB{
+#nextB, #nextB1{
   position: absolute;
   top: 50%;
   z-index: 10;
