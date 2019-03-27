@@ -4,6 +4,9 @@
   color:#2cfd7c;
   text-align: center;
 }
+#premeBox{
+  float:left;
+  margin-left: 5vw;
 img{
   height: 300px;
   width:auto;
