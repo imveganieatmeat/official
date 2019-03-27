@@ -5,8 +5,8 @@
   text-align: center;
 }
 #premeBox{
-  float:left;
-  margin-left: 5vw;
+  text-align: left;
+  
 }
 img{
   height: 300px;
