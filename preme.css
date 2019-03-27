@@ -2,4 +2,45 @@
   font-size: 8vw;
   text-decoration: none;
   color:#2cfd7c;
+  text-align: center;
+}
+body{
+  padding: 0px;
+  margin: 0px;
+  box-sizing:border-box;
+  text-align: center;
+}
+img{
+  height: 300px;
+  width:auto;
+}
+.carousel-container{
+  width:300px;
+  margin:auto;
+  border: 5px solid black;
+  overflow: hidden;
+  position: relative;
+}
+.carousel-slide{
+  display:flex;
+}
+#prevB{
+  position: absolute;
+  top: 50%;
+  z-index: 10;
+  left: 5%;
+  font-size: 30px;
+  color: black;
+  opacity: 0.5;
+  cursor: pointer;
+}
+#nextB{
+  position: absolute;
+  top: 50%;
+  z-index: 10;
+  right: 5%;
+  font-size: 30px;
+  color: black;
+  opacity: 0.5;
+  cursor: pointer;
 }
