@@ -7,7 +7,6 @@
 #premeBox{
   text-align: left;
   margin-left: 9vw;
-  padding-top: -4vw;
 }
 .boxLogo{
   height: 300px;
@@ -45,5 +44,6 @@
 }
 #firstCarousel{
   float: left;
-  margin: 5vw;
+  margin-left: 5vw;
+  margin-right: 5vw;
 }
