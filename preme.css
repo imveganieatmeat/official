@@ -6,9 +6,9 @@
 }
 #premeBox{
   text-align: left;
-  padding-top: 50vw;
+  padding-top: 10vw;
 }
-img{
+.boxLogo{
   height: 300px;
   width:auto;
 }
