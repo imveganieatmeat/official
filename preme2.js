@@ -12,7 +12,7 @@ const size2 = carouselImages2[0].clientWidth;
 carouselSlide2.style.transform = 'translateX(' + (-size2 * counter2) + 'px)';
 
 nextB2.addEventListener('click',()=>{
-  if(counter2 >= carouselImages2.length-2) return;
+  if(counter2 >= carouselImages2.length-1) return;
   carouselSlide2.style.transition = "transform 0.4s ease-in-out";
   counter2++;
   carouselSlide2.style.transform = 'translateX(' + (-size2 * counter2) + 'px)';
@@ -33,7 +33,7 @@ carouselSlide2.addEventListener('transitionend', () =>{
   }
   if(carouselImages2[counter2].id === 'firstClone'){
     carouselSlide2.style.transition = "none";
-    counter2 = carouselImages2.length-(carouselImages2.length-2);
+    counter2 = carouselImages2.length-(carouselImages2.length-1);
     carouselSlide2.style.transform = 'translateX(' + (-size2 * counter2) + 'px)';
   }
 });
