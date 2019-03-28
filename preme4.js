@@ -28,7 +28,7 @@ prevB4.addEventListener('click',()=>{
 carouselSlide4.addEventListener('transitionend', () =>{
   if(carouselImages4[counter4].id === 'lastClone'){
     carouselSlide4.style.transition = "none";
-    counter4 = carouselImages4.length-4;
+    counter4 = carouselImages4.length-2;
     carouselSlide4.style.transform = 'translateX(' + (-size4 * counter4) + 'px)';
   }
   if(carouselImages4[counter4].id === 'firstClone'){
