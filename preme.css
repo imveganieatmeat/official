@@ -23,7 +23,7 @@ h1, a{
 .carousel-slide, .carousel-slide1, .carousel-slide2, .carousel-slide3, .carousel-slide4{
   display:flex;
 }
-#prevB, #prevB1, #prevB2, #prevB3, #prev4{
+#prevB, #prevB1, #prevB2, #prevB3, #prevB4{
   position: absolute;
   top: 50%;
   z-index: 10;
