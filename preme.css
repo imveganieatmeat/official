@@ -6,24 +6,24 @@ h1, a{
   text-decoration: none;
   color:#2cfd7c;
 }
-#premeBox, #premeStic18, #premeStic19, #premeDamStic{
+#premeBox, #premeStic18, #premeStic19, #premeDamStic, #premeMock{
   text-align: left;
 }
-.boxLogo, .sticker18, .sticker19, .stickerDam{
+.boxLogo, .sticker18, .sticker19, .stickerDam, .mockStic{
   height: 300px;
   width: 300px;
 }
-.carousel-container, .carousel-container1, .carousel-container2, .carousel-container3{
+.carousel-container, .carousel-container1, .carousel-container2, .carousel-container3, .carousel-container4{
   width:300px;
   margin:auto;
   border: 5px solid black;
   overflow: hidden;
   position: relative;
 }
-.carousel-slide, .carousel-slide1, .carousel-slide2, .carousel-slide3{
+.carousel-slide, .carousel-slide1, .carousel-slide2, .carousel-slide3, .carousel-slide4{
   display:flex;
 }
-#prevB, #prevB1, #prevB2, #prevB3{
+#prevB, #prevB1, #prevB2, #prevB3, #prev4{
   position: absolute;
   top: 50%;
   z-index: 10;
@@ -33,7 +33,7 @@ h1, a{
   opacity: 0.5;
   cursor: pointer;
 }
-#nextB, #nextB1, #nextB2, #nextB3{
+#nextB, #nextB1, #nextB2, #nextB3, #nextB4{
   position: absolute;
   top: 50%;
   z-index: 10;
@@ -59,6 +59,11 @@ h1, a{
   margin-right: 5vw;
 }
 #fourthCarousel{
+  float: left;
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+#fifthCarousel{
   float: left;
   margin-left: 5vw;
   margin-right: 5vw;
