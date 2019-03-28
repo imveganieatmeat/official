@@ -10,7 +10,7 @@ body{
   color:#2cfd7c;
 }
 #premeBox, #premeStic18, #premeStic19, #premeDamStic, #premeMock{
-  float: right;
+  float: center;
 }
 .boxLogo, .sticker18, .sticker19, .stickerDam, .mockStic{
   height: 300px;
