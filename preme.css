@@ -1,7 +1,7 @@
 .title{
   text-align: center;
 }
-h1, a{
+.titleClass, .titleClassA{
   font-size: 8vw;
   text-decoration: none;
   color:#2cfd7c;
