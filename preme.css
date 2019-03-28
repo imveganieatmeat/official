@@ -11,7 +11,7 @@ body{
 }
 #premeBox, #premeStic18, #premeStic19, #premeDamStic, #premeMock{
   float: none;
-  text-align: center;
+  margin-left: 50px;
 }
 .boxLogo, .sticker18, .sticker19, .stickerDam, .mockStic{
   height: 300px;
