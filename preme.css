@@ -7,7 +7,7 @@ h1, a{
   color:#2cfd7c;
 }
 #premeBox, #premeStic18, #premeStic19, #premeDamStic, #premeMock{
-  text-align: left;
+  text-align: right;
 }
 .boxLogo, .sticker18, .sticker19, .stickerDam, .mockStic{
   height: 300px;
