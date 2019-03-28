@@ -5,10 +5,10 @@
   float: center;
   
 }
-#premeBox, #sticker18{
+#premeBox, #premeStic18, #premeStic19, #premeDamStic{
   text-align: left;
 }
-.boxLogo, .sticker18{
+.boxLogo, .sticker18, .sticker19, .stickerDam{
   height: 300px;
   width: 300px;
 }
