@@ -2,7 +2,7 @@
   font-size: 8vw;
   text-decoration: none;
   color:#2cfd7c;
-  float: center;
+  text-align: center;
 }
 #premeBox, #premeStic18, #premeStic19, #premeDamStic{
   text-align: left;
