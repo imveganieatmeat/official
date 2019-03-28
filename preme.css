@@ -12,17 +12,17 @@
   height: 300px;
   width: 300px;
 }
-.carousel-container, .carousel-container1{
+.carousel-container, .carousel-container1, .carousel-container2, .carousel-container3{
   width:300px;
   margin:auto;
   border: 5px solid black;
   overflow: hidden;
   position: relative;
 }
-.carousel-slide, .carousel-slide1{
+.carousel-slide, .carousel-slide1, .carousel-slide2, .carousel-slide3{
   display:flex;
 }
-#prevB, #prevB1{
+#prevB, #prevB1, #prevB2, #prevB3{
   position: absolute;
   top: 50%;
   z-index: 10;
@@ -32,7 +32,7 @@
   opacity: 0.5;
   cursor: pointer;
 }
-#nextB, #nextB1{
+#nextB, #nextB1, #nextB2, #nextB3{
   position: absolute;
   top: 50%;
   z-index: 10;
@@ -48,6 +48,16 @@
   margin-right: 5vw;
 }
 #secondCarousel{
+  float: left;
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+#thirdCarousel{
+  float: left;
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+#fourthCarousel{
   float: left;
   margin-left: 5vw;
   margin-right: 5vw;
