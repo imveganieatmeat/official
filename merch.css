@@ -29,6 +29,7 @@ footer{
 /* this is a css comment */
 
 .container {
+  position: relative;
   width: 25%;
   text-align: center;
 }
