@@ -30,7 +30,8 @@ footer{
 
 .container {
   position: relative;
-  width: 50%;
+  width: 25%;
+  text-align: center;
 }
 
 .image {
