@@ -35,6 +35,8 @@ footer{
 .container {
   position: relative;
   width: 25%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .image {
