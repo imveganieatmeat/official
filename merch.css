@@ -27,7 +27,7 @@ footer{
 
 
 /* this is a css comment */
-.paypal1{
+.paypal1, table{
   margin-left: auto;
   margin-right: auto;
 }
