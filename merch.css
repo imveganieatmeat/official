@@ -28,6 +28,10 @@ footer{
 
 /* this is a css comment */
 
+.paypal1, table{
+  margin-left: auto;
+  margin-right: auto;
+}
 .container {
   margin-top: 15vw;
   position: relative;
@@ -67,10 +71,7 @@ footer{
   position: absolute;
   text-align: center;
 }
-  .paypal1, table{
-  margin-left: auto;
-  margin-right: auto;
-}
+
 .addToCart{
   margin-top: 1vw;
 }
