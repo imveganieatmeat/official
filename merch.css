@@ -30,7 +30,7 @@ footer{
 
 #soldOut{
   color: red;
-  margin: -0.5vw;
+  margin-top: -0.5vw;
 }
 .paypal1, table{
   margin-left: auto;
