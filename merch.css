@@ -28,6 +28,9 @@ footer{
 
 /* this is a css comment */
 
+#soldOut{
+  color: red;
+}
 .paypal1, table{
   margin-left: auto;
   margin-right: auto;
